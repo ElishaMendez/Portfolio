@@ -1,1 +1,1 @@
-#Business Anlyst
+#Business Analyst
