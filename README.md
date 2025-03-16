@@ -29,7 +29,7 @@
 
 ## Projects
 ### Compounding Pharmacy Production
-
+![Excel Dashboard(Light)](assets/img/Excel Dashboard(Light.jpeg)
 -Explain what you did with project here
 
 #add image here
