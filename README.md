@@ -29,7 +29,6 @@
 
 ## Projects
 ### Compounding Pharmacy Production
-![Excel Dashboard(Light)](assets/img/Excel Dashboard(Light.jpeg)
+![Excel Dashboard(Light)](assets/img/Excel Dashboard(Light).JPG)![Excel Dashboard(Light)](assets/img/Excel Dashboard(Dark).JPG)
 -Explain what you did with project here
 
-#add image here
