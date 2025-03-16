@@ -1,4 +1,4 @@
-# Business Analyst
+# Data Analyst
 
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
@@ -13,7 +13,7 @@
 - Manage the packing and shipping of compounded medications, ensuring proper labeling, storage conditions, and timely delivery.
 
 **E3 Pharmacy Technician Specialty Rx | (_Apr 2024 – Dec 2024_)**
-- Led a technician team, optimizing performance through automation systems in a high-volume processing environment.
+- Assisted a technician team, optimizing performance through automation systems in a high-volume processing environment.
 -	Managed robotic cassette functionality, processing 5,000 patient orders daily, ensuring compliance and operational efficiency.
 -	Diagnosed and resolved software and mechanical issues in automated systems, minimizing downtime and enhancing performance.
 
