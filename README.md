@@ -29,6 +29,7 @@
 
 ## Projects
 ### Compounding Pharmacy Production
+The image displays a professionally designed Excel dashboard created using PowerPoint, Excel, Pivot Tables, and Slicers to track and analyze compounding production estimates for 2025-2026. This interactive dashboard leverages Excel's Pivot Tables to summarize large datasets efficiently and uses Slicers to filter data dynamically for better visualization and analysis. The dashboard was designed with PowerPoint and Excel, ensuring a professional and visually appealing layout. The combination of Pivot Tables and Slicers makes it a powerful tool for data-driven decision-making, optimizing production planning, and inventory management.
 ![Excel Dashboard(Light)](assets/img/Excel Dashboard(Light).JPG)![Excel Dashboard(Light)](assets/img/Excel Dashboard(Dark).JPG)
--Explain what you did with project here
+
 
