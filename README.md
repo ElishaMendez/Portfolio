@@ -1,4 +1,4 @@
-# Junior Data Analyst
+# Aspiring Junior Data Analyst
 
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
