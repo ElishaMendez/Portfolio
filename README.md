@@ -8,24 +8,24 @@
 
 ## Work Experience
 **Packaging & Shipping Pharmacy Technician (Compounding) Publix Supermarkets Inc. | (_Dec 2024 – Present_)**
--	Prioritize urgent requests while ensuring accuracy in custom formulations and prescription details.
-- Collaborate with pharmacists to verify prescriptions, optimize inventory, and analyze trend data to improve workflow efficiency.
-- Manage the packing and shipping of compounded medications, ensuring proper labeling, storage conditions, and timely delivery.
+-	Analyzed inventory and prescription trend data to optimize workflow efficiency.
+- Collaborated with pharmacists to verify prescriptions and ensure data accuracy in order processing.
+- Managed shipment tracking and reporting, monitoring fulfillment patterns for process improvements.
 
 **E3 Pharmacy Technician Specialty Rx | (_Apr 2024 – Dec 2024_)**
-- Assisted a technician team, optimizing performance through automation systems in a high-volume processing environment.
--	Managed robotic cassette functionality, processing 5,000 patient orders daily, ensuring compliance and operational efficiency.
--	Diagnosed and resolved software and mechanical issues in automated systems, minimizing downtime and enhancing performance.
+- Utilized automation systems to process and track over 5,000 patient orders daily, improving operational efficiency.
+-	Diagnosed and resolved software and mechanical issues in automated systems, ensuring data integrity and minimizing downtime.
+-	Developed insights from system performance metrics to enhance workflow automation.
 
 **Central-Fill Pharmacy Technician Publix Supermarkets Inc. | (_Mar 2022 – Jan 2023_)**
-- Provided online support for Florida and Georgia Publix retail pharmacies, assisting with Nexia store dispensing technology.
-- Troubleshot and resolved issues with patient orders and robotic dispensing units, ensuring accurate medication fulfillment.
-- Improved processing efficiency by 10% through automation issue resolution and workflow optimization.
+- Analyzed prescription fulfillment data to identify and resolve processing inefficiencies, increasing accuracy by 10%.
+- Provided technical support for Nexia store dispensing technology, troubleshooting data discrepancies and system errors.
+- Assisted with the optimization of automated workflows, ensuring seamless data synchronization across pharmacy systems.
 
 **Retail Pharmacy Technician Publix Supermarkets Inc. | (_Nov 2021 – Mar 2022_)**
-- Processed and filled prescription orders while ensuring accuracy and compliance.-
-- Delivered exceptional customer service, providing in-person and telephone support.
-- Assisted with inventory management, including ordering, unpacking, and inspecting pharmaceutical shipments.
+- Managed pharmacy inventory and assisted with procurement, tracking stock levels to prevent shortages.
+- Processed and reviewed prescription data for accuracy, ensuring compliance with regulatory requirements.
+- Delivered insights on patient medication trends, helping improve stock management decisions.
 
 ## Projects
 ### Compounding Pharmacy Production
