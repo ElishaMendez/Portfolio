@@ -33,5 +33,5 @@
 ![Excel Dashboard(Light)](assets/img/Excel Dashboard(Light).JPG)![Excel Dashboard(Light)](assets/img/Excel Dashboard(Dark).JPG)
 
 This Power BI dashboard provides a comprehensive overview of Estimated Compounding Totals for 2025-2026, integrating data from Excel and leveraging interactive slicers for dynamic data filtering.
-![Excel Dashboard(Light)](assets/img/)
+![Excel Dashboard(Light)](assets/img/PowerBi Version2.JPG)
 
