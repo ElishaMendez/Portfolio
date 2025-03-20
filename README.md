@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# Aspiring Business Analyst
 
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
