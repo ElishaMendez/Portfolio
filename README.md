@@ -3,8 +3,8 @@
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
 - B.G.S, Minor in Health Administration | UCF (_Expected 2026_)
-- A.A. General | Valencia College					       		
-- Responsive Web Design Certificate | FreecodeCamp
+- A.A. General                          | Valencia College					       		
+- Responsive Web Design Certificate     | FreecodeCamp
 
 ## Work Experience
 **Packaging & Shipping Pharmacy Technician (Compounding) Publix Supermarkets Inc. | (_Dec 2024 – Present_)**
