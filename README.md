@@ -2,9 +2,9 @@
 
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
-- B.G.S, Minor in Health Administration | The University of Central Florida (_Expected 2026_)
+- B.G.S, Minor in Health Administration | UCF (_Expected 2026_)
 - A.A. General | Valencia College (_July 2020_)							       		
-- Pharmacy Technician Certificate(1050hrs) | Osceola Technical College
+- Responsive Web Design Certificate | FreecodeCamp
 
 ## Work Experience
 **Packaging & Shipping Pharmacy Technician (Compounding) Publix Supermarkets Inc. | (_Dec 2024 – Present_)**
