@@ -3,7 +3,7 @@
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
 - B.G.S, Minor in Health Administration | UCF (_Expected 2026_)
-- A.A. General | Valencia College (_July 2020_)							       		
+- A.A. General | Valencia College					       		
 - Responsive Web Design Certificate | FreecodeCamp
 
 ## Work Experience
