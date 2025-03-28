@@ -1,4 +1,4 @@
-# Data Analyst
+# Pharmacy Technician
 
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
@@ -7,7 +7,7 @@
 + Responsive Web Design Certificate     | FreecodeCamp
 
 ## Work Experience
-**Pharmacy Workflow Analyst Publix Supermarkets Inc. | (_Dec 2024 – Present_)**
+**Mail-Order Compounding Pharmacy Technician Publix Supermarkets Inc. | (_Dec 2024 – Present_)**
 -	Analyzed inventory and prescription trend data to optimize workflow efficiency.
 - Collaborated with pharmacists to verify prescriptions and ensure data accuracy in order processing.
 - Managed shipment tracking and reporting, monitoring fulfillment patterns for process improvements.
