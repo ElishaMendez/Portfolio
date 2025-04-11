@@ -1,4 +1,4 @@
-# Data Analyst
+# Pharmacy Technician
 
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
