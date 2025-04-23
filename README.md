@@ -3,7 +3,9 @@
 #### Technical Skills: Power Bi, Microsoft Excel, Word, PowerPoint, Sharepoint
 ## Education
 + B.G.S, Minor in Health Administration | UCF (_Expected 2026_)
-+ A.A. General                          | Valencia College					       		
++ A.A. General                          | Valencia College
++ Pharmacy Technician Certificate | Osceola Technical College (1050hrs)
++ Pharmacy Technician License | Florida Board of Pharmacy				       		
 + Responsive Web Design Certificate     | FreecodeCamp
 
 ## Projects
@@ -17,24 +19,28 @@ This Power BI dashboard provides a comprehensive overview of Estimated Compoundi
 
 ## Work Experience
 **Mail-Order Compounding Pharmacy Technician Publix Supermarkets Inc. | (_Dec 2024 – Present_)**
--	Analyzed inventory and prescription trend data to optimize workflow efficiency.
-- Collaborated with pharmacists to verify prescriptions and ensure data accuracy in order processing.
-- Managed shipment tracking and reporting, monitoring fulfillment patterns for process improvements.
+- Spearheaded batch planning and trend forecasting for sterile and non-sterile compound prescriptions, improving daily workflow efficiency.
+- Collaborated with pharmacists to verify prescription data integrity and regulatory compliance, ensuring 100% accuracy in compound preparations.
+- Monitored outbound shipments and coordinated with logistics to resolve delivery delays, resulting in a 15% improvement in on-time patient fulfillment.
+- Managed approximately 150 inbound and outbound calls daily as part of a team, resolving patient inquiries, coordinating prescription orders, and supporting care continuity in a high-volume environment.
 
 **E3 Pharmacy Technician Specialty Rx | (_Apr 2024 – Dec 2024_)**
-- Utilized automation systems to process and track over 5,000 patient orders daily, improving operational efficiency.
--	Diagnosed and resolved software and mechanical issues in automated systems, ensuring data integrity and minimizing downtime.
--	Developed insights from system performance metrics to enhance workflow automation.
+- Operated and maintained high-volume automation systems to process over 5,000 prescriptions daily, reducing manual labor by 30%.
+- roubleshot automation system errors in real-time, maintaining 95% operational uptime and accuracy.
+- Interpreted performance data and flagged inefficiencies, contributing to a 15% increase in throughput and inventory precision.
+- Coordinated cross-department communication to proactively resolve prescription holds, enhancing same-day processing capabilities.
 
 **Central-Fill Pharmacy Technician Publix Supermarkets Inc. | (_Mar 2022 – Jan 2023_)**
-- Analyzed prescription fulfillment data to identify and resolve processing inefficiencies, increasing accuracy by 10%.
-- Provided technical support for Nexia store dispensing technology, troubleshooting data discrepancies and system errors.
-- Assisted with the optimization of automated workflows, ensuring seamless data synchronization across pharmacy systems.
+- Audited and reconciled fulfillment reports, achieving near-zero discrepancy rates in high-volume medication dispensing.
+- Delivered technical support for Nexia automated systems across multiple sites, reducing downtime incidents by 25%.
+- Identified patterns in order flow and implemented system enhancements that streamlined production scheduling.
+- Acted as a flex technician, seamlessly rotating across automation, inventory, and fulfillment zones to maintain operational flow, reinforce team coverage, and adapt to shifting warehouse demands.
 
 **Retail Pharmacy Technician Publix Supermarkets Inc. | (_Nov 2021 – Mar 2022_)**
-- Managed pharmacy inventory and assisted with procurement, tracking stock levels to prevent shortages.
-- Processed and reviewed prescription data for accuracy, ensuring compliance with regulatory requirements.
-- Delivered insights on patient medication trends, helping improve stock management decisions.
+- Processed prescriptions while ensuring HIPAA compliance and maintaining customer satisfaction in a fast-paced retail environment.
+- Utilized barcode scanning and inventory management software to maintain optimal medication stock levels.
+- Supported pharmacists by reviewing patient medication histories and contributing to medication therapy management.
+- Educated patients on refill procedures and insurance processes, improving prescription pickup compliance.
 
 
 
